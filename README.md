@@ -2,7 +2,7 @@
 
 ## Description
 
-## Project aims to create parallax website
+Project aims to create parallax website
 
 ## Project
 
